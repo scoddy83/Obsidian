@@ -1,0 +1,1 @@
+A User Story consists of th Who, What and the Why.

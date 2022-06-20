@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "e08698d22ab37e58",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac3728363c62ea0f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "User stories.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "422b87fa04ac3d1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "33b58a7611c62ada",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d086d0652a3839eb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f95e40bccf3292f0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bccce74068db70a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "d22cf4119e7cd4c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ee6f0a6cc1c28b2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "User stories.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ac3728363c62ea0f",
+  "lastOpenFiles": [
+    "User stories.md",
+    "Understanding the Big picture.md",
+    "Stakeholder Management.md",
+    "Requirement.md",
+    "Process.md",
+    "Planning.md",
+    "Listening.md",
+    "Interview.md",
+    "Elicitation.md",
+    "Brainstorming.md"
+  ]
+}
